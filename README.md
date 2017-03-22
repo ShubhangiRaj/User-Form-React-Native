@@ -25,7 +25,7 @@ Clone the git repo in your local machine.
 ```
 git clone https://github.com/ShubhangiRaj/simple-form.git
 ```
-Browse through *simple-form > SimpleFormGrab*
+Browse through *simple-form > SimpleForm*
 - For running on Android: ```react-native run-android```
 - For running on iOS: ```react-native run-ios```
 - For running on web: ```open index.html in your browser```
